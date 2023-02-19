@@ -1,8 +1,8 @@
 # Vrinda Sales Report 2022
-In this project we have done data analysis using Microsoft Excel and created a dashboard. Fro which we get the insights and helps the Vrinda Store to increase their sales.
+In this project we have done data analysis using Microsoft Excel and created a dashboard. From which we get the insights and helps the Vrinda Store to increase their sales.
 
 # Objective 
-Vrinda store wants o create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
 # Sample Questions
 Here are some questions given by them:
@@ -20,9 +20,9 @@ Here are some questions given by them:
 - Amazon, Flipkart and Myntra channels are maximum contributing (~80%)
 
 # Final Conclusion to improve Vrinda Store Sales:
-- Target ##women customers of age group ##(30 - 49 yrs) living in ##Mharshtra, ## Karnataka and ## Uttar Pradesh by showing ads/offers/coupons avaliable on the ##Amazon, ##Flipkart and ##Myntra
+- Target women customers of age group ##(30 - 49 yrs) living in Mharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons avaliable on the Amazon, Flipkart and Myntra
 
 # Contribution
-Special Thanks to Rishabh Mishra for his valuable guidance 
-Channel link - https://www.youtube.com/@RishabhMishraOfficial
+Special Thanks to Rishabh Mishra for his valuable guidance.
+- Channel link - https://www.youtube.com/@RishabhMishraOfficial
 
