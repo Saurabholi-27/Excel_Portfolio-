@@ -1,4 +1,4 @@
-# Vrinda Sales Report 2022
+# Vrinda Store Sales Report
 In this project we have done data analysis using Microsoft Excel and created a dashboard. From which we get the insights and helps the Vrinda Store to increase their sales.
 
 # Objective 
